@@ -1,0 +1,7 @@
+grubby
+rpm-sort
+version.h
+*.o
+core.*
+vgcore.*
+*.tar.*
